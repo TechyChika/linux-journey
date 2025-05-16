@@ -1,0 +1,11 @@
+As someone just starting out in Cloud Engineering, I am excited to share a few hands-on skills I learned recently and trust me, it feels great to finally stop just reading about the cloud and start building in it
+Here what I accomplished:
+
+ Set up a virtual machine on AWS EC2
+ Launched an instance and connected to it using SSH from the terminal
+Ran basic Linux commands like pwd, touch, and mkdir
+ Created directories and files, then
+Opened and edited a file using Vim (yes, I even figured out how to exit it )
+
+It might sound simple, but for someone new to the cloud and Linux, this was a big confidence booster.
+Every command I typed helped me understand a bit more about how cloud servers work under the hood and excited to keep leveling up from here.
