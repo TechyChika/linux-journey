@@ -1,0 +1,10 @@
+Today I Learned: Managing Users & Groups in Linux
+As I continue exploring the world of Cloud Engineering and Linux system administration, I took some time today to learn about a key foundational skill: managing users and groups in a Linux environment.
+Heres what I practiced:
+  Creating new users with adduser and useradd
+   Setting and changing passwords with passwd
+    Creating and managing groups with groupadd, usermod, and gpasswd
+     Adding users to groups (including the sudo group for admin rights)
+      Viewing user details with id and checking login sessions with who and w
+       Removing users and groups safely when needed
+      It's amazing to see how Linux gives such fine-grained control over system access and user privileges. Understanding this is essential for secure system administration  especially when working with cloud-based servers like AWS EC2.
